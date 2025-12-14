@@ -1,2 +1,3 @@
 FIRST COMMIT in B
 sothing to B
+yet another adding to B
